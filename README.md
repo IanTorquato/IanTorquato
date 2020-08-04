@@ -1,4 +1,4 @@
-<p align="center"> <img  align="center" src="https://raw.githubusercontent.com/IanTorquato/IanTorquato/master/1%20-%20NLW%20%2302%20-%201920x1080.jpg"/> </p>
+<p align="center"> <img  align="center" src="https://github.com/IanTorquato/IanTorquato/blob/master/1%20-%20NLW%20%2302%20-%202560x1080.jpg?raw=true"/> </p>
 
 <h1> Ian da Conceição da Silva  </h1>
 
