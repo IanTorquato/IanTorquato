@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center"> <img  align="center" src="https://raw.githubusercontent.com/IanTorquato/IanTorquato/master/1%20-%20NLW%20%2302%20-%201920x1080.jpg"/> </p>
 
-<!--
-**IanTorquato/IanTorquato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Ian da Conceição da Silva  </h1>
 
-Here are some ideas to get you started:
+Busco um local de trabalho onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
+Estou interessado em trabalhar com Javascript seja no Backend, no Frontend ou no Mobile. <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Minha stack é:** React, Node, React Native e Typescript.
+
+📚 Atualmente estou trabalhando em um **[Projeto](https://github.com/IanTorquato/Projeto_PSCJ)** que lida com o agendamento de missas durante a pandemia, dá uma olhada lá.
+
+✉️ E aqui você pode entrar em contato comigo: **iantorquato2@gmail.com**
+
+<br/> <br/>
+> **Mensão honrosa para minha antiga "Logo" kkkkk:** <p align="center"> <img src="https://user-images.githubusercontent.com/61882248/79669908-7cac5380-8195-11ea-9eec-754c9ad5b014.png"/> </p>
