@@ -2,7 +2,7 @@
 
 <h1> Ian da Conceição da Silva  </h1>
 
-Busco um local de trabalho onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
+:pencil: Busco um local de trabalho onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
 Estou interessado em trabalhar com Javascript seja no Backend, no Frontend ou no Mobile. <br/>
 
 💻 **Minha stack é:** React, Node, React Native e Typescript.
