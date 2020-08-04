@@ -10,6 +10,3 @@ Estou interessado em trabalhar com Javascript seja no Backend, no Frontend ou no
 📚 Atualmente estou trabalhando em um **[Projeto](https://github.com/IanTorquato/Projeto_PSCJ)** que lida com o agendamento de missas durante a pandemia, dá uma olhada lá.
 
 ✉️ E aqui você pode entrar em contato comigo: **iantorquato2@gmail.com**
-
-<br/> <br/>
-> **Mensão honrosa para minha antiga "Logo" kkkkk:** <p align="center"> <img src="https://user-images.githubusercontent.com/61882248/79669908-7cac5380-8195-11ea-9eec-754c9ad5b014.png"/> </p>
