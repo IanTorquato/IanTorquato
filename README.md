@@ -9,7 +9,7 @@ Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no 
 
 :man_technologist: Atualmente estou trabalhando em um **[Projeto_PSCJ](https://github.com/IanTorquato/Projeto_PSCJ)** que lida com o agendamento de missas durante a pandemia, dá uma olhada lá.
 
-:speech_balloon: E aqui você pode entrar em contato comigo: `**iantorquato2@gmail.com**`
+:speech_balloon: E aqui você pode entrar em contato comigo: **`iantorquato2@gmail.com`**
 
 <br/> <br/>
 
