@@ -1,4 +1,4 @@
-<p align="center"> <img  align="center" src="https://github.com/IanTorquato/IanTorquato/blob/master/1%20-%20NLW%20%2302%20-%202560x1080.jpg?raw=true"/> </p>
+<p align="center"> <img  align="center" src=" https://github.com/IanTorquato/IanTorquato/blob/master/1%20-%20NLW%20%2302%20-%202560x1080.jpg?raw=true"/> </p>
 
 <h1> Ian da Conceição da Silva </h1>
 
@@ -18,9 +18,12 @@ Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no 
 ### [Projeto_PSCJ](https://github.com/IanTorquato/Projeto_PSCJ)
 
 ```
-1. Terminar rotas da aplicação "Projeto_PSCJ"
+1. Terminar rotas da aplicação "Projeto_PSCJ" ✔️
+1.1. Uploads de imagens no backend (imagens de perfil dos usuários) 
 2. Mudar do banco sqlite para Postegres
 3. Hospedar o banco no Heroku
+4. Transformar elementos semelhantes em componentes no mobile e na web
+
 ```
 
 ### [Proffy-Rocketseat-NLW](https://github.com/IanTorquato/Proffy-Rocketseat-NLW) Versão: 2.0
