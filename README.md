@@ -19,9 +19,9 @@ Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no 
 
 ```
 1. Terminar rotas da aplicação "Projeto_PSCJ" ✔️
-1.1. Uploads de imagens no backend (imagens de perfil dos usuários) 
-2. Mudar do banco sqlite para Postegres
-3. Hospedar o banco no Heroku
+1.1. Uploads de imagens no backend (imagens de perfil dos usuários) ✔️
+2. Mudar do banco sqlite para Postegres ✔️
+3. Hospedar o banco no Heroku ✔️
 4. Transformar elementos semelhantes em componentes no mobile e na web
 
 ```
