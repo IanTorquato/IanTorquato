@@ -15,20 +15,30 @@ Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no 
 
 <h2> Próximos passos </h2>
 
+_Os tópicos finalizados estão comentados aqui no README_
+
 ### [Projeto_PSCJ](https://github.com/IanTorquato/Projeto_PSCJ)
 
-```
-1. Terminar rotas da aplicação "Projeto_PSCJ" ✔️
-1.1. Uploads de imagens no backend (imagens de perfil dos usuários) ✔️
-2. Mudar do banco sqlite para Postegres ✔️
-3. Hospedar o banco no Heroku ✔️
-4. Transformar elementos semelhantes em componentes no mobile e na web
+<!--
+  1. Terminar rotas da aplicação "Projeto_PSCJ" ✔️
+  1.1. Uploads de imagens no backend (imagens de perfil dos usuários) ✔️
+  2. Mudar do banco sqlite para Postegres ✔️
+  3. Hospedar o banco no Heroku ✔️
+-->
 
 ```
+  4. Revisar todos os tratamentos de erro
+  5. Transformar elementos semelhantes em componentes na web
+  6. Transformar elementos semelhantes em componentes no mobile
+```
+
+<!-- Objetivos fututos
+  * Usar autenticação jwt como no "GoBarber"
+-->
 
 ### [Proffy-Rocketseat-NLW](https://github.com/IanTorquato/Proffy-Rocketseat-NLW) Versão: 2.0
 
 ```
- 1. Splash Screen no React Native com Expo
- 2. Iniciar o novo Layout da aplicação
- ```
+  1. Splash Screen no React Native com Expo
+  2. Iniciar o novo Layout da aplicação
+```
