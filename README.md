@@ -2,6 +2,8 @@
 
 <h1> Ian da Conceição da Silva </h1>
 
+[![Visits Badge](https://badges.pufler.dev/visits/IanTorquato/IanTorquato)](https://github.com/IanTorquato)
+
 :office: Busco um local de trabalho onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
 Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no Frontend :desktop_computer: ou no Mobile :iphone:. <br/>
 
