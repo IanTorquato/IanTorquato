@@ -9,6 +9,6 @@ Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no 
 
 💻 **Minha stack é:** React, Node, React Native e Typescript.
 
-:man_technologist: Atualmente estou trabalhando no **[Projeto PSCJ](https://github.com/IanTorquato/Projeto_PSCJ-Backend)** que lida com o agendamento de missas durante a pandemia, dá uma olhada lá!
+:man_technologist: Atualmente estou trabalhando no **[Projeto PSCJ](https://github.com/IanTorquato/Projeto_PSCJ-Web)** que lida com o agendamento de missas durante a pandemia, dá uma olhada lá!
 
 :speech_balloon: E aqui você pode entrar em contato comigo: **`iantorquato2@gmail.com`**
