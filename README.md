@@ -15,4 +15,5 @@ Estou interessado em trabalhar com Javascript seja no Backend :file_folder:, no 
 
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IanTorquato&show_icons=true" alt="Status IanTorquato GitHub" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanTorquato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=IanTorquato&show_icons=true" alt="Status IanTorquato GitHub" />
