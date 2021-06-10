@@ -2,8 +2,6 @@
 
 <h1> Ian da Conceição da Silva </h1>
 
-[![Visits Badge](https://badges.pufler.dev/visits/IanTorquato/IanTorquato)](https://github.com/IanTorquato)
-
 :office: Estou atualmente trabalhando na Silbeck Sistemas.
 Aprecio locais onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
 Estou interessado em trabalhar com Javascript/typescript, seja no Backend :file_folder:, no Frontend :desktop_computer: ou no Mobile :iphone:. <br/>
@@ -19,5 +17,12 @@ Mas fique a vontade para me chamar em qualquer rede social, olho todas diariamen
 
 <br/>
 
+[![Visits Badge](https://badges.pufler.dev/visits/IanTorquato/IanTorquato)](https://github.com/IanTorquato)
+
+<img src="./AWS - Academy Cloud Foundations Badge.png">
+
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanTorquato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=IanTorquato&show_icons=true" alt="Status IanTorquato GitHub" />
+           <img src="https://github-readme-stats.vercel.app/api?username=IanTorquato&show_icons=true" alt="Status IanTorquato GitHub" />
+
