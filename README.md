@@ -6,7 +6,7 @@
 Aprecio locais onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
 Estou interessado em trabalhar com Javascript/typescript, seja no Backend :file_folder:, no Frontend :desktop_computer: ou no Mobile :iphone:. <br/>
 
-💻 **Minha stack básica é:** React, Node e React Native.
+💻 **Minha stack básica é:** React, Node e React Native. 
 
 Em meus repositórios é possivel notar que já mexo com algumas tecnologias, como Expo, NestJS, Docker, entre outros.
 
