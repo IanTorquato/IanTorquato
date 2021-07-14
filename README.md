@@ -13,7 +13,9 @@ Em meus repositórios é possivel notar que já mexo com algumas tecnologias, co
 :man_technologist: Meu principal projeto pessoal é o **[Projeto PSCJ](https://github.com/IanTorquato/Projeto_PSCJ-Web)**, que lida com o agendamento de missas durante a pandemia, dá uma olhada lá!
 
 :speech_balloon: E aqui você pode entrar em contato comigo de uma forma mais formal: **`iantorquato2@gmail.com`**.
-Mas fique a vontade para me chamar em qualquer rede social, olho todas diariamente ♥
+Mas fique a vontade para me chamar em qualquer rede social, olho todas diariamente.
+
+Acesse o [meu perfil](https://app.rocketseat.com.br/me/iantorquato) na plataforma da Rocketseat 💜
 
 <br/>
 
