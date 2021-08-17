@@ -42,10 +42,10 @@
 
 :office: Estou atualmente trabalhando na Silbeck Sistemas.
 Aprecio locais onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
-Estou interessado em trabalhar com Javascript/typescript, seja no Backend :file_folder:, no Frontend :desktop_computer: ou no Mobile :iphone:. <br/>
+Estou interessado em trabalhar com Javascript/Typescript, seja no Backend :file_folder:, no Frontend :desktop_computer: ou no Mobile :iphone:. <br/>
 
 :speech_balloon: Aqui você pode entrar em contato comigo de uma forma mais formal: **`iantorquato2@gmail.com`**.
-Mas fique a vontade para me chamar em qualquer rede social, olho todas diariamente.
+Mas fique à vontade para me chamar em qualquer rede social, olho todas diariamente.
 
 <br/>
 
