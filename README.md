@@ -1,6 +1,32 @@
-<p align="center"> <img  align="center" src=" https://github.com/IanTorquato/IanTorquato/blob/master/1%20-%20NLW%20%2302%20-%202560x1080.jpg?raw=true"/> </p>
+<div style="display: inline_block">
+  <img align="right" alt="yoda" src="https://badges.pufler.dev/visits/IanTorquato/IanTorquato">
+  <h2>Olá, meu nome Ian da Conceição da Silva! 😄</h2>
+  </div>
 
-<h1> Ian da Conceição da Silva </h1>
+<div style="display: inline_block">
+  <br>
+  
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="right" alt="yoda" src="./AWS - Academy Cloud Foundations Badge.png">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/iantorquato" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E2243F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/iantorquato" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br/><br/><br/>
 
 :office: Estou atualmente trabalhando na Silbeck Sistemas.
 Aprecio locais onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
@@ -13,11 +39,8 @@ Acesse o [meu perfil](https://app.rocketseat.com.br/me/iantorquato) na plataform
 
 <br/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/IanTorquato/IanTorquato)](https://github.com/IanTorquato)
-
-<img src="./AWS - Academy Cloud Foundations Badge.png">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=iantorquato&theme=tokyonight&show_icons=true">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantorquato&theme=tokyonight">
-
+<div>
+  <a href="https://github.com/iantorquato">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=iantorquato&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantorquato&theme=tokyonight&layout=compact" />
+</div>
