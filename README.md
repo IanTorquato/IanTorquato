@@ -41,6 +41,6 @@ Acesse o [meu perfil](https://app.rocketseat.com.br/me/iantorquato) na plataform
 
 <div>
   <a href="https://github.com/iantorquato">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=iantorquato&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantorquato&theme=tokyonight&layout=compact" />
+  <img height="184rem" src="https://github-readme-stats.vercel.app/api?username=iantorquato&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="184rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantorquato&theme=tokyonight&layout=compact" />
 </div>
