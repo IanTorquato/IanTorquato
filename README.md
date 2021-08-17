@@ -13,10 +13,11 @@ Acesse o [meu perfil](https://app.rocketseat.com.br/me/iantorquato) na plataform
 
 <br/>
 
+[![Visits Badge](https://badges.pufler.dev/visits/IanTorquato/IanTorquato)](https://github.com/IanTorquato)
+
+<img src="./AWS - Academy Cloud Foundations Badge.png">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iantorquato&theme=tokyonight&show_icons=true">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iantorquato&theme=tokyonight">
 
-[![Visits Badge](https://badges.pufler.dev/visits/IanTorquato/IanTorquato)](https://github.com/IanTorquato)
-
-<img src="./AWS - Academy Cloud Foundations Badge.png">
