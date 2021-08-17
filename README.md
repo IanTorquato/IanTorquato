@@ -47,8 +47,6 @@ Estou interessado em trabalhar com Javascript/typescript, seja no Backend :file_
 :speech_balloon: Aqui você pode entrar em contato comigo de uma forma mais formal: **`iantorquato2@gmail.com`**.
 Mas fique a vontade para me chamar em qualquer rede social, olho todas diariamente.
 
-Acesse o [meu perfil](https://app.rocketseat.com.br/me/iantorquato) na plataforma da Rocketseat 💜
-
 <br/>
 
 <div>
