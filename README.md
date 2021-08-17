@@ -24,13 +24,17 @@
 
 ##
 
-<div> 
+<div style="display: inline_block">
+  <a href="https://app.rocketseat.com.br/me/iantorquato" target="_blank">
+    <img height="32" src="https://brasiltech.shawee.io/img/support/LOGO-ROCKETSEAT.png" target="_blank">
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/iantorquato" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E2243F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/-Instagram-%23E2243F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/iantorquato" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
