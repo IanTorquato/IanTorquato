@@ -1,6 +1,6 @@
 <div style="display: inline_block">
   <img align="right" alt="yoda" src="https://badges.pufler.dev/visits/IanTorquato/IanTorquato">
-  <h2>Olá, meu nome Ian da Conceição da Silva! 😄</h2>
+  <h2>Olá, meu nome Ian da Conceição da Silva!</h2>
   </div>
 
 <div style="display: inline_block">
