@@ -1,7 +1,6 @@
 <div style="display: inline_block">
-  <img align="right" alt="yoda" src="https://badges.pufler.dev/visits/IanTorquato/IanTorquato">
-  <h2>Olá, meu nome Ian da Conceição da Silva!</h2>
-  </div>
+  <h2>Olá, meu nome é Ian da Conceição da Silva!</h2>
+</div>
 
 <div style="display: inline_block">
   <br>
@@ -26,7 +25,7 @@
 
 <div style="display: inline_block">
   <a href="https://app.rocketseat.com.br/me/iantorquato" target="_blank">
-    <img height="32" src="https://brasiltech.shawee.io/img/support/LOGO-ROCKETSEAT.png" target="_blank">
+    <img height="32" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" target="_blank">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/iantorquato" target="_blank">
