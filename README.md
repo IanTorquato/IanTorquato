@@ -39,12 +39,15 @@
 
 <br/><br/><br/>
 
-:office: Estou atualmente trabalhando na Silbeck Sistemas.
-Aprecio locais onde eu possa ganhar experiência e crescer como programador, contribuindo para o crescimento da empresa enquanto evoluo.
-Estou interessado em trabalhar com Javascript/Typescript, seja no Backend :file_folder:, no Frontend :desktop_computer: ou no Mobile :iphone:. <br/>
+Sou um programador de 21 anos, autodidata, focado e muito detalhista. Sempre me destaquei na área de exatas e, desde cedo, gostava de ensinar e ajudar meus colegas. Aos 17 anos, comecei a estudar programação e, desde então, me dediquei cada vez mais para aumentar minhas habilidades, focando principalmente em tecnologias Web.
 
-:speech_balloon: Aqui você pode entrar em contato comigo de uma forma mais formal: **`iantorquato2@gmail.com`**.
-Mas fique à vontade para me chamar em qualquer rede social, olho todas diariamente.
+Em fevereiro de 2021, consegui meu primeiro emprego e ingressei em Ciência da Computação com 100% de bolsa através da nota do ENEM. No início da minha experiência de trabalho, por alguns meses, pesquisei e testei tecnologias como microsserviços, containers, monorepo, etc. Na sequência, criei e trabalhei por um tempo em um projeto back-end com NodeJS, Express, Typescript, PostgreSQL, Docker, Redis, AWS S3, entre outros.
+
+Já neste último ano, tenho gerenciado um projeto que criei do zero, o qual tem por objetivo migrar para a web um sistema desktop. Nesse projeto, sou responsável por propor layouts, encontrar soluções focadas no cliente, codificar e delegar tarefas a outro colaborador. As ferramentas que utilizamos são ReactJS, Ant Design, RTL etc.
+
+Por fim, quando se trata de tecnologia, o segredo é nunca parar de estudar, por isso, estou sempre buscando me aperfeiçoar e fazer o melhor código possível!
+
+E-mail: **`iantorquato2@gmail.com`**
 
 <br/>
 
