@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <h2>Olá, meu nome é Ian da Conceição da Silva!</h2>
+  <h2>Olá, meu nome é Ian da Conceição da Silva Rodrigues!</h2>
 </div>
 
 <div style="display: inline_block">
@@ -39,13 +39,11 @@
 
 <br/><br/><br/>
 
-Sou um programador de 21 anos, autodidata, focado e muito detalhista. Sempre me destaquei na área de exatas e, desde cedo, gostava de ensinar e ajudar meus colegas. Aos 17 anos, comecei a estudar programação e, desde então, me dediquei cada vez mais para aumentar minhas habilidades, focando principalmente em tecnologias Web.
+Sou um programador de 23 anos, autodidata, focado e muito detalhista. Sempre me destaquei na área de exatas e, desde cedo, gostava de ensinar e ajudar meus colegas. Aos 17 anos, comecei a estudar programação e, desde então, me dediquei cada vez mais para aumentar minhas habilidades, focando principalmente em tecnologias Web.
 
 Em fevereiro de 2021, consegui meu primeiro emprego e ingressei em Ciência da Computação com 100% de bolsa através da nota do ENEM. No início da minha experiência de trabalho, por alguns meses, pesquisei e testei tecnologias como microsserviços, containers, monorepo, etc. Na sequência, criei e trabalhei por um tempo em um projeto back-end com NodeJS, Express, Typescript, PostgreSQL, Docker, Redis, AWS S3, entre outros.
 
-Já neste último ano, tenho gerenciado um projeto que criei do zero, o qual tem por objetivo migrar para a web um sistema desktop. Nesse projeto, sou responsável por propor layouts, encontrar soluções focadas no cliente, codificar e delegar tarefas a outro colaborador. As ferramentas que utilizamos são ReactJS, Ant Design, RTL etc.
-
-Por fim, quando se trata de tecnologia, o segredo é nunca parar de estudar, por isso, estou sempre buscando me aperfeiçoar e fazer o melhor código possível!
+Na sequência (e até o momento), tenho liderado um projeto que criei do zero, o qual tem por objetivo migrar para a web um sistema desktop. Nesse projeto, sou responsável por propor layouts, encontrar soluções focadas no cliente, codificar e delegar tarefas aos outros colaboradores. As ferramentas que utilizamos são ReactJS, Ant Design, RTL, Cypress, entre outras.
 
 E-mail: **`iantorquato2@gmail.com`**
 
